@@ -1,7 +1,7 @@
 import java.io.UnsupportedEncodingException;
 
 /**
- * user:hao.song
+ * user:xxxxhao.songxxx
  * date:15/6/27
  * time:下午10:37
  */
